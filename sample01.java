@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/* Robel D Negash
+   java proj1
+*/
 public class sample01 {
 
 	public static void main(String[] args) {
