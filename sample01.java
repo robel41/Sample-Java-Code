@@ -9,6 +9,7 @@ public class sample01 {
 		Scanner reader = new Scanner(System.in);
 		final int FIRST_ENTRY_CHOICE = 1;
 		final int SECOND_ENTRY_CHOICE = 2;
+		final int THIRD_ENTRY_CHOICE = 3;
 		int entryChoice;
 		int playerNumber;
 		String playerName;
